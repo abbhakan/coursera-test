@@ -1,0 +1,39 @@
+body {
+    font-size: 16px;
+    color: ghostwhite;
+    background-color: black;   
+}
+
+.navbar-header button.navbar-toogle, .navbar-header .icon-bar {
+    border: 1px solid black;   
+}
+
+h1.text-center {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    
+}
+
+.chicken {
+    color: red;
+}
+
+.beef {
+    color: green;
+}
+
+.sushi {
+    color: blue;
+}
+
+.section {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: darkgray;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding: 10px 20px 10px 20px;
+}
+
+
+
